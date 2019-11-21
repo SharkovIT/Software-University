@@ -1,0 +1,11 @@
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P05_Snake_Moves\bin\Debug\netcoreapp2.1\P05_Snake_Moves.deps.json
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P05_Snake_Moves\bin\Debug\netcoreapp2.1\P05_Snake_Moves.runtimeconfig.json
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P05_Snake_Moves\bin\Debug\netcoreapp2.1\P05_Snake_Moves.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P05_Snake_Moves\bin\Debug\netcoreapp2.1\P05_Snake_Moves.dll
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P05_Snake_Moves\bin\Debug\netcoreapp2.1\P05_Snake_Moves.pdb
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P05_Snake_Moves\obj\Debug\netcoreapp2.1\P05_Snake_Moves.csprojAssemblyReference.cache
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P05_Snake_Moves\obj\Debug\netcoreapp2.1\P05_Snake_Moves.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P05_Snake_Moves\obj\Debug\netcoreapp2.1\P05_Snake_Moves.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P05_Snake_Moves\obj\Debug\netcoreapp2.1\P05_Snake_Moves.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P05_Snake_Moves\obj\Debug\netcoreapp2.1\P05_Snake_Moves.dll
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P05_Snake_Moves\obj\Debug\netcoreapp2.1\P05_Snake_Moves.pdb

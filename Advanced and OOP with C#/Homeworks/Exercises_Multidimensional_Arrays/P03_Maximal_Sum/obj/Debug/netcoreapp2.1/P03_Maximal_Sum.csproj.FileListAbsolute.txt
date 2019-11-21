@@ -1,0 +1,11 @@
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P03_Maximal_Sum\obj\Debug\netcoreapp2.1\P03_Maximal_Sum.csprojAssemblyReference.cache
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P03_Maximal_Sum\obj\Debug\netcoreapp2.1\P03_Maximal_Sum.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P03_Maximal_Sum\obj\Debug\netcoreapp2.1\P03_Maximal_Sum.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P03_Maximal_Sum\obj\Debug\netcoreapp2.1\P03_Maximal_Sum.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P03_Maximal_Sum\bin\Debug\netcoreapp2.1\P03_Maximal_Sum.deps.json
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P03_Maximal_Sum\bin\Debug\netcoreapp2.1\P03_Maximal_Sum.runtimeconfig.json
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P03_Maximal_Sum\bin\Debug\netcoreapp2.1\P03_Maximal_Sum.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P03_Maximal_Sum\bin\Debug\netcoreapp2.1\P03_Maximal_Sum.dll
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P03_Maximal_Sum\bin\Debug\netcoreapp2.1\P03_Maximal_Sum.pdb
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P03_Maximal_Sum\obj\Debug\netcoreapp2.1\P03_Maximal_Sum.dll
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P03_Maximal_Sum\obj\Debug\netcoreapp2.1\P03_Maximal_Sum.pdb

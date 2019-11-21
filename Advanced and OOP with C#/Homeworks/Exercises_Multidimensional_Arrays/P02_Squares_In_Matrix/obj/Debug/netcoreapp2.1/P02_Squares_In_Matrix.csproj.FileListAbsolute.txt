@@ -1,0 +1,11 @@
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P02_Squares_In_Matrix\bin\Debug\netcoreapp2.1\P02_Squares_In_Matrix.deps.json
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P02_Squares_In_Matrix\bin\Debug\netcoreapp2.1\P02_Squares_In_Matrix.runtimeconfig.json
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P02_Squares_In_Matrix\bin\Debug\netcoreapp2.1\P02_Squares_In_Matrix.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P02_Squares_In_Matrix\bin\Debug\netcoreapp2.1\P02_Squares_In_Matrix.dll
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P02_Squares_In_Matrix\bin\Debug\netcoreapp2.1\P02_Squares_In_Matrix.pdb
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P02_Squares_In_Matrix\obj\Debug\netcoreapp2.1\P02_Squares_In_Matrix.csprojAssemblyReference.cache
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P02_Squares_In_Matrix\obj\Debug\netcoreapp2.1\P02_Squares_In_Matrix.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P02_Squares_In_Matrix\obj\Debug\netcoreapp2.1\P02_Squares_In_Matrix.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P02_Squares_In_Matrix\obj\Debug\netcoreapp2.1\P02_Squares_In_Matrix.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P02_Squares_In_Matrix\obj\Debug\netcoreapp2.1\P02_Squares_In_Matrix.dll
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P02_Squares_In_Matrix\obj\Debug\netcoreapp2.1\P02_Squares_In_Matrix.pdb

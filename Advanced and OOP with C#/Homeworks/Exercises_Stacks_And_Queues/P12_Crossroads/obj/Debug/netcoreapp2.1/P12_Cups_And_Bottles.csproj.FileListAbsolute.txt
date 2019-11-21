@@ -1,0 +1,11 @@
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P12_Crossroads\bin\Debug\netcoreapp2.1\P12_Cups_And_Bottles.deps.json
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P12_Crossroads\bin\Debug\netcoreapp2.1\P12_Cups_And_Bottles.runtimeconfig.json
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P12_Crossroads\bin\Debug\netcoreapp2.1\P12_Cups_And_Bottles.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P12_Crossroads\bin\Debug\netcoreapp2.1\P12_Cups_And_Bottles.dll
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P12_Crossroads\bin\Debug\netcoreapp2.1\P12_Cups_And_Bottles.pdb
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P12_Crossroads\obj\Debug\netcoreapp2.1\P12_Cups_And_Bottles.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P12_Crossroads\obj\Debug\netcoreapp2.1\P12_Cups_And_Bottles.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P12_Crossroads\obj\Debug\netcoreapp2.1\P12_Cups_And_Bottles.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P12_Crossroads\obj\Debug\netcoreapp2.1\P12_Cups_And_Bottles.dll
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P12_Crossroads\obj\Debug\netcoreapp2.1\P12_Cups_And_Bottles.pdb
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P12_Crossroads\obj\Debug\netcoreapp2.1\P12_Cups_And_Bottles.csprojAssemblyReference.cache

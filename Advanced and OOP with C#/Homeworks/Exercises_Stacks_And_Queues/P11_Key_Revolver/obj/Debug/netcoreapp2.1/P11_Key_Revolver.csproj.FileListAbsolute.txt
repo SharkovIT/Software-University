@@ -1,0 +1,10 @@
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P11_Key_Revolver\bin\Debug\netcoreapp2.1\P11_Key_Revolver.deps.json
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P11_Key_Revolver\bin\Debug\netcoreapp2.1\P11_Key_Revolver.runtimeconfig.json
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P11_Key_Revolver\bin\Debug\netcoreapp2.1\P11_Key_Revolver.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P11_Key_Revolver\bin\Debug\netcoreapp2.1\P11_Key_Revolver.dll
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P11_Key_Revolver\bin\Debug\netcoreapp2.1\P11_Key_Revolver.pdb
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P11_Key_Revolver\obj\Debug\netcoreapp2.1\P11_Key_Revolver.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P11_Key_Revolver\obj\Debug\netcoreapp2.1\P11_Key_Revolver.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P11_Key_Revolver\obj\Debug\netcoreapp2.1\P11_Key_Revolver.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P11_Key_Revolver\obj\Debug\netcoreapp2.1\P11_Key_Revolver.dll
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P11_Key_Revolver\obj\Debug\netcoreapp2.1\P11_Key_Revolver.pdb

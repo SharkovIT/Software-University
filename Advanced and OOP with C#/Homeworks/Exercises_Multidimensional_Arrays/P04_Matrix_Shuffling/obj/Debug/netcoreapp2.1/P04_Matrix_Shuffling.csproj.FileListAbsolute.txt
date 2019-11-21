@@ -1,0 +1,11 @@
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P04_Matrix_Shuffling\bin\Debug\netcoreapp2.1\P04_Matrix_Shuffling.deps.json
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P04_Matrix_Shuffling\bin\Debug\netcoreapp2.1\P04_Matrix_Shuffling.runtimeconfig.json
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P04_Matrix_Shuffling\bin\Debug\netcoreapp2.1\P04_Matrix_Shuffling.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P04_Matrix_Shuffling\bin\Debug\netcoreapp2.1\P04_Matrix_Shuffling.dll
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P04_Matrix_Shuffling\bin\Debug\netcoreapp2.1\P04_Matrix_Shuffling.pdb
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P04_Matrix_Shuffling\obj\Debug\netcoreapp2.1\P04_Matrix_Shuffling.csprojAssemblyReference.cache
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P04_Matrix_Shuffling\obj\Debug\netcoreapp2.1\P04_Matrix_Shuffling.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P04_Matrix_Shuffling\obj\Debug\netcoreapp2.1\P04_Matrix_Shuffling.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P04_Matrix_Shuffling\obj\Debug\netcoreapp2.1\P04_Matrix_Shuffling.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P04_Matrix_Shuffling\obj\Debug\netcoreapp2.1\P04_Matrix_Shuffling.dll
+C:\SoftUniLab\Exercises_Multidimensional_Arrays\P04_Matrix_Shuffling\obj\Debug\netcoreapp2.1\P04_Matrix_Shuffling.pdb

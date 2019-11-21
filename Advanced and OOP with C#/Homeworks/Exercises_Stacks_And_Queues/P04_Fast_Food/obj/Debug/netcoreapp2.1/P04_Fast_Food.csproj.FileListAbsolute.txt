@@ -1,0 +1,10 @@
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P04_Fast_Food\bin\Debug\netcoreapp2.1\P04_Fast_Food.deps.json
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P04_Fast_Food\bin\Debug\netcoreapp2.1\P04_Fast_Food.runtimeconfig.json
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P04_Fast_Food\bin\Debug\netcoreapp2.1\P04_Fast_Food.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P04_Fast_Food\bin\Debug\netcoreapp2.1\P04_Fast_Food.dll
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P04_Fast_Food\bin\Debug\netcoreapp2.1\P04_Fast_Food.pdb
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P04_Fast_Food\obj\Debug\netcoreapp2.1\P04_Fast_Food.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P04_Fast_Food\obj\Debug\netcoreapp2.1\P04_Fast_Food.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P04_Fast_Food\obj\Debug\netcoreapp2.1\P04_Fast_Food.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P04_Fast_Food\obj\Debug\netcoreapp2.1\P04_Fast_Food.dll
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P04_Fast_Food\obj\Debug\netcoreapp2.1\P04_Fast_Food.pdb

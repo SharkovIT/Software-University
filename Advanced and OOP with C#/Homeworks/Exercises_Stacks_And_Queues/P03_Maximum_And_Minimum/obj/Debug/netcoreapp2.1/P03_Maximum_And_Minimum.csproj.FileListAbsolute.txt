@@ -1,0 +1,11 @@
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P03_Maximum_And_Minimum\bin\Debug\netcoreapp2.1\P03_Maximum_And_Minimum.deps.json
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P03_Maximum_And_Minimum\bin\Debug\netcoreapp2.1\P03_Maximum_And_Minimum.runtimeconfig.json
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P03_Maximum_And_Minimum\bin\Debug\netcoreapp2.1\P03_Maximum_And_Minimum.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P03_Maximum_And_Minimum\bin\Debug\netcoreapp2.1\P03_Maximum_And_Minimum.dll
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P03_Maximum_And_Minimum\bin\Debug\netcoreapp2.1\P03_Maximum_And_Minimum.pdb
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P03_Maximum_And_Minimum\obj\Debug\netcoreapp2.1\P03_Maximum_And_Minimum.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P03_Maximum_And_Minimum\obj\Debug\netcoreapp2.1\P03_Maximum_And_Minimum.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P03_Maximum_And_Minimum\obj\Debug\netcoreapp2.1\P03_Maximum_And_Minimum.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P03_Maximum_And_Minimum\obj\Debug\netcoreapp2.1\P03_Maximum_And_Minimum.dll
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P03_Maximum_And_Minimum\obj\Debug\netcoreapp2.1\P03_Maximum_And_Minimum.pdb
+C:\SoftUniLab\Exercises_Stacks_And_Queues\P03_Maximum_And_Minimum\obj\Debug\netcoreapp2.1\P03_Maximum_And_Minimum.csprojAssemblyReference.cache
