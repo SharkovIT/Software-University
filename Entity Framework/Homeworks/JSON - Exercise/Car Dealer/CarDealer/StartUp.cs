@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using AutoMapper;
@@ -19,7 +20,7 @@ namespace CarDealer
 
                 //var inputJson = File.ReadAllText("../../../Datasets/sales.json");
 
-                var result = ImportSales(db);
+                var result = GetLocalSuppliers(db);
 
                 Console.WriteLine(result);
             }
@@ -97,6 +98,61 @@ namespace CarDealer
             int count = context.SaveChanges();
 
             return $"Successfully imported {count}.";
+        }
+
+        public static string GetOrderedCustomers(CarDealerContext context)
+        {
+            var customers = context.Customers
+                .OrderBy(c => c.BirthDate)
+                .ThenBy(c => c.IsYoungDriver)
+                .Select(c => new
+                {
+                    Name = c.Name,
+                    BirthDate = c.BirthDate.ToString("dd/MM/yyyy"),
+                    IsYoungDriver = c.IsYoungDriver
+                })
+                .ToList();
+
+            var json = JsonConvert.SerializeObject(customers, Formatting.Indented);
+
+            return json;
+        }
+
+        public static string GetCarsFromMakeToyota(CarDealerContext context)
+        {
+            var cars = context.Cars
+                .Where(c => c.Make == "Toyota")
+                .OrderBy(c => c.Model)
+                .ThenByDescending(c => c.TravelledDistance)
+                .Select(c => new
+                {
+                    Id = c.Id,
+                    Make = c.Make,
+                    Model = c.Model,
+                    TravelledDistance = c.TravelledDistance
+                })
+                .ToList();
+
+            var json = JsonConvert.SerializeObject(cars, Formatting.Indented);
+
+            return json;
+        }
+
+        public static string GetLocalSuppliers(CarDealerContext context)
+        {
+            var suppliers = context.Suppliers
+                .Where(s => s.IsImporter == false)
+                .Select(s => new
+                {
+                    Id = s.Id,
+                    Name = s.Name,
+                    PartsCount = s.Parts.Count()
+                })
+                .ToList();
+
+            var json = JsonConvert.SerializeObject(suppliers, Formatting.Indented);
+
+            return json;
         }
     }
 }
