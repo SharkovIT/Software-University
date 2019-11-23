@@ -1,0 +1,11 @@
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P07_The_V-Logger\bin\Debug\netcoreapp2.1\P07_The_V-Logger.deps.json
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P07_The_V-Logger\bin\Debug\netcoreapp2.1\P07_The_V-Logger.runtimeconfig.json
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P07_The_V-Logger\bin\Debug\netcoreapp2.1\P07_The_V-Logger.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P07_The_V-Logger\bin\Debug\netcoreapp2.1\P07_The_V-Logger.dll
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P07_The_V-Logger\bin\Debug\netcoreapp2.1\P07_The_V-Logger.pdb
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P07_The_V-Logger\obj\Debug\netcoreapp2.1\P07_The_V-Logger.csprojAssemblyReference.cache
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P07_The_V-Logger\obj\Debug\netcoreapp2.1\P07_The_V-Logger.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P07_The_V-Logger\obj\Debug\netcoreapp2.1\P07_The_V-Logger.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P07_The_V-Logger\obj\Debug\netcoreapp2.1\P07_The_V-Logger.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P07_The_V-Logger\obj\Debug\netcoreapp2.1\P07_The_V-Logger.dll
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P07_The_V-Logger\obj\Debug\netcoreapp2.1\P07_The_V-Logger.pdb

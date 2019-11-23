@@ -1,0 +1,11 @@
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P06_Wardrobe\bin\Debug\netcoreapp2.1\P06_Wardrobe.deps.json
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P06_Wardrobe\bin\Debug\netcoreapp2.1\P06_Wardrobe.runtimeconfig.json
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P06_Wardrobe\bin\Debug\netcoreapp2.1\P06_Wardrobe.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P06_Wardrobe\bin\Debug\netcoreapp2.1\P06_Wardrobe.dll
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P06_Wardrobe\bin\Debug\netcoreapp2.1\P06_Wardrobe.pdb
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P06_Wardrobe\obj\Debug\netcoreapp2.1\P06_Wardrobe.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P06_Wardrobe\obj\Debug\netcoreapp2.1\P06_Wardrobe.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P06_Wardrobe\obj\Debug\netcoreapp2.1\P06_Wardrobe.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P06_Wardrobe\obj\Debug\netcoreapp2.1\P06_Wardrobe.dll
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P06_Wardrobe\obj\Debug\netcoreapp2.1\P06_Wardrobe.pdb
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P06_Wardrobe\obj\Debug\netcoreapp2.1\P06_Wardrobe.csprojAssemblyReference.cache
