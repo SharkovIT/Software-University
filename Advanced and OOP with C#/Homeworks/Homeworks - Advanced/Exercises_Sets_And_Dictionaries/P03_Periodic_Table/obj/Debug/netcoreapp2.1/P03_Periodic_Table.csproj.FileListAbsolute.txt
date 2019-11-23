@@ -1,0 +1,10 @@
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P03_Periodic_Table\bin\Debug\netcoreapp2.1\P03_Periodic_Table.deps.json
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P03_Periodic_Table\bin\Debug\netcoreapp2.1\P03_Periodic_Table.runtimeconfig.json
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P03_Periodic_Table\bin\Debug\netcoreapp2.1\P03_Periodic_Table.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P03_Periodic_Table\bin\Debug\netcoreapp2.1\P03_Periodic_Table.dll
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P03_Periodic_Table\bin\Debug\netcoreapp2.1\P03_Periodic_Table.pdb
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P03_Periodic_Table\obj\Debug\netcoreapp2.1\P03_Periodic_Table.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P03_Periodic_Table\obj\Debug\netcoreapp2.1\P03_Periodic_Table.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P03_Periodic_Table\obj\Debug\netcoreapp2.1\P03_Periodic_Table.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P03_Periodic_Table\obj\Debug\netcoreapp2.1\P03_Periodic_Table.dll
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P03_Periodic_Table\obj\Debug\netcoreapp2.1\P03_Periodic_Table.pdb

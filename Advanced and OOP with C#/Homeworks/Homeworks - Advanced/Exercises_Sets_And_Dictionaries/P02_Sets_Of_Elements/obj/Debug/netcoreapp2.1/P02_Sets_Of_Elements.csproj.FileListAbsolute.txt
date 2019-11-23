@@ -1,0 +1,10 @@
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P02_Sets_Of_Elements\bin\Debug\netcoreapp2.1\P02_Sets_Of_Elements.deps.json
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P02_Sets_Of_Elements\bin\Debug\netcoreapp2.1\P02_Sets_Of_Elements.runtimeconfig.json
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P02_Sets_Of_Elements\bin\Debug\netcoreapp2.1\P02_Sets_Of_Elements.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P02_Sets_Of_Elements\bin\Debug\netcoreapp2.1\P02_Sets_Of_Elements.dll
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P02_Sets_Of_Elements\bin\Debug\netcoreapp2.1\P02_Sets_Of_Elements.pdb
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P02_Sets_Of_Elements\obj\Debug\netcoreapp2.1\P02_Sets_Of_Elements.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P02_Sets_Of_Elements\obj\Debug\netcoreapp2.1\P02_Sets_Of_Elements.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P02_Sets_Of_Elements\obj\Debug\netcoreapp2.1\P02_Sets_Of_Elements.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P02_Sets_Of_Elements\obj\Debug\netcoreapp2.1\P02_Sets_Of_Elements.dll
+C:\SoftUniLab\Exercises_Sets_And_Dictionaries\P02_Sets_Of_Elements\obj\Debug\netcoreapp2.1\P02_Sets_Of_Elements.pdb
