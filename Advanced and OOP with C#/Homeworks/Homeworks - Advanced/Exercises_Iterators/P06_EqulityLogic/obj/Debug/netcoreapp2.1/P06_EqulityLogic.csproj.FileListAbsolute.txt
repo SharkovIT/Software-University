@@ -1,0 +1,11 @@
+C:\SoftUniLab\Exercises_Iterators\P06_EqulityLogic\bin\Debug\netcoreapp2.1\P06_EqulityLogic.deps.json
+C:\SoftUniLab\Exercises_Iterators\P06_EqulityLogic\bin\Debug\netcoreapp2.1\P06_EqulityLogic.runtimeconfig.json
+C:\SoftUniLab\Exercises_Iterators\P06_EqulityLogic\bin\Debug\netcoreapp2.1\P06_EqulityLogic.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Iterators\P06_EqulityLogic\bin\Debug\netcoreapp2.1\P06_EqulityLogic.dll
+C:\SoftUniLab\Exercises_Iterators\P06_EqulityLogic\bin\Debug\netcoreapp2.1\P06_EqulityLogic.pdb
+C:\SoftUniLab\Exercises_Iterators\P06_EqulityLogic\obj\Debug\netcoreapp2.1\P06_EqulityLogic.csprojAssemblyReference.cache
+C:\SoftUniLab\Exercises_Iterators\P06_EqulityLogic\obj\Debug\netcoreapp2.1\P06_EqulityLogic.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Iterators\P06_EqulityLogic\obj\Debug\netcoreapp2.1\P06_EqulityLogic.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Iterators\P06_EqulityLogic\obj\Debug\netcoreapp2.1\P06_EqulityLogic.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Iterators\P06_EqulityLogic\obj\Debug\netcoreapp2.1\P06_EqulityLogic.dll
+C:\SoftUniLab\Exercises_Iterators\P06_EqulityLogic\obj\Debug\netcoreapp2.1\P06_EqulityLogic.pdb

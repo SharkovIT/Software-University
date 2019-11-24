@@ -1,0 +1,11 @@
+C:\SoftUniLab\Exercises_Iterators\P03_Stack\bin\Debug\netcoreapp2.1\P03_Stack.deps.json
+C:\SoftUniLab\Exercises_Iterators\P03_Stack\bin\Debug\netcoreapp2.1\P03_Stack.runtimeconfig.json
+C:\SoftUniLab\Exercises_Iterators\P03_Stack\bin\Debug\netcoreapp2.1\P03_Stack.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Iterators\P03_Stack\bin\Debug\netcoreapp2.1\P03_Stack.dll
+C:\SoftUniLab\Exercises_Iterators\P03_Stack\bin\Debug\netcoreapp2.1\P03_Stack.pdb
+C:\SoftUniLab\Exercises_Iterators\P03_Stack\obj\Debug\netcoreapp2.1\P03_Stack.csprojAssemblyReference.cache
+C:\SoftUniLab\Exercises_Iterators\P03_Stack\obj\Debug\netcoreapp2.1\P03_Stack.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Iterators\P03_Stack\obj\Debug\netcoreapp2.1\P03_Stack.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Iterators\P03_Stack\obj\Debug\netcoreapp2.1\P03_Stack.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Iterators\P03_Stack\obj\Debug\netcoreapp2.1\P03_Stack.dll
+C:\SoftUniLab\Exercises_Iterators\P03_Stack\obj\Debug\netcoreapp2.1\P03_Stack.pdb
