@@ -1,0 +1,10 @@
+C:\SoftUniLab\Exercises_Iterators\Comparing_Objects\bin\Debug\netcoreapp2.1\Comparing_Objects.deps.json
+C:\SoftUniLab\Exercises_Iterators\Comparing_Objects\bin\Debug\netcoreapp2.1\Comparing_Objects.runtimeconfig.json
+C:\SoftUniLab\Exercises_Iterators\Comparing_Objects\bin\Debug\netcoreapp2.1\Comparing_Objects.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Iterators\Comparing_Objects\bin\Debug\netcoreapp2.1\Comparing_Objects.dll
+C:\SoftUniLab\Exercises_Iterators\Comparing_Objects\bin\Debug\netcoreapp2.1\Comparing_Objects.pdb
+C:\SoftUniLab\Exercises_Iterators\Comparing_Objects\obj\Debug\netcoreapp2.1\Comparing_Objects.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Iterators\Comparing_Objects\obj\Debug\netcoreapp2.1\Comparing_Objects.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Iterators\Comparing_Objects\obj\Debug\netcoreapp2.1\Comparing_Objects.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Iterators\Comparing_Objects\obj\Debug\netcoreapp2.1\Comparing_Objects.dll
+C:\SoftUniLab\Exercises_Iterators\Comparing_Objects\obj\Debug\netcoreapp2.1\Comparing_Objects.pdb
