@@ -1,0 +1,11 @@
+C:\SoftUniLab\Exercises_Definin_Clases\RawData\bin\Debug\netcoreapp2.1\RawData.deps.json
+C:\SoftUniLab\Exercises_Definin_Clases\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.json
+C:\SoftUniLab\Exercises_Definin_Clases\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Definin_Clases\RawData\bin\Debug\netcoreapp2.1\RawData.dll
+C:\SoftUniLab\Exercises_Definin_Clases\RawData\bin\Debug\netcoreapp2.1\RawData.pdb
+C:\SoftUniLab\Exercises_Definin_Clases\RawData\obj\Debug\netcoreapp2.1\RawData.csprojAssemblyReference.cache
+C:\SoftUniLab\Exercises_Definin_Clases\RawData\obj\Debug\netcoreapp2.1\RawData.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Definin_Clases\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Definin_Clases\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Definin_Clases\RawData\obj\Debug\netcoreapp2.1\RawData.dll
+C:\SoftUniLab\Exercises_Definin_Clases\RawData\obj\Debug\netcoreapp2.1\RawData.pdb

@@ -1,0 +1,11 @@
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.deps.json
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.runtimeconfig.json
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.dll
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.pdb
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.dll
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.pdb

@@ -1,0 +1,11 @@
+C:\SoftUniLab\Exercises_Generics\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.deps.json
+C:\SoftUniLab\Exercises_Generics\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.runtimeconfig.json
+C:\SoftUniLab\Exercises_Generics\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.runtimeconfig.dev.json
+C:\SoftUniLab\Exercises_Generics\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.dll
+C:\SoftUniLab\Exercises_Generics\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.pdb
+C:\SoftUniLab\Exercises_Generics\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.csprojAssemblyReference.cache
+C:\SoftUniLab\Exercises_Generics\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Generics\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Generics\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.AssemblyInfo.cs
+C:\SoftUniLab\Exercises_Generics\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.dll
+C:\SoftUniLab\Exercises_Generics\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.pdb

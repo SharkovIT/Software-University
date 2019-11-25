@@ -1,0 +1,11 @@
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P03_Custom_Min_Function\bin\Debug\netcoreapp2.1\P03_Custom_Min_Function.deps.json
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P03_Custom_Min_Function\bin\Debug\netcoreapp2.1\P03_Custom_Min_Function.runtimeconfig.json
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P03_Custom_Min_Function\bin\Debug\netcoreapp2.1\P03_Custom_Min_Function.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P03_Custom_Min_Function\bin\Debug\netcoreapp2.1\P03_Custom_Min_Function.dll
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P03_Custom_Min_Function\bin\Debug\netcoreapp2.1\P03_Custom_Min_Function.pdb
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P03_Custom_Min_Function\obj\Debug\netcoreapp2.1\P03_Custom_Min_Function.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P03_Custom_Min_Function\obj\Debug\netcoreapp2.1\P03_Custom_Min_Function.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P03_Custom_Min_Function\obj\Debug\netcoreapp2.1\P03_Custom_Min_Function.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P03_Custom_Min_Function\obj\Debug\netcoreapp2.1\P03_Custom_Min_Function.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P03_Custom_Min_Function\obj\Debug\netcoreapp2.1\P03_Custom_Min_Function.dll
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P03_Custom_Min_Function\obj\Debug\netcoreapp2.1\P03_Custom_Min_Function.pdb

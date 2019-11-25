@@ -1,0 +1,11 @@
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P07_Predicate_For_Names\bin\Debug\netcoreapp2.1\P07_Predicate_For_Names.deps.json
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P07_Predicate_For_Names\bin\Debug\netcoreapp2.1\P07_Predicate_For_Names.runtimeconfig.json
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P07_Predicate_For_Names\bin\Debug\netcoreapp2.1\P07_Predicate_For_Names.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P07_Predicate_For_Names\bin\Debug\netcoreapp2.1\P07_Predicate_For_Names.dll
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P07_Predicate_For_Names\bin\Debug\netcoreapp2.1\P07_Predicate_For_Names.pdb
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P07_Predicate_For_Names\obj\Debug\netcoreapp2.1\P07_Predicate_For_Names.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P07_Predicate_For_Names\obj\Debug\netcoreapp2.1\P07_Predicate_For_Names.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P07_Predicate_For_Names\obj\Debug\netcoreapp2.1\P07_Predicate_For_Names.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P07_Predicate_For_Names\obj\Debug\netcoreapp2.1\P07_Predicate_For_Names.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P07_Predicate_For_Names\obj\Debug\netcoreapp2.1\P07_Predicate_For_Names.dll
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P07_Predicate_For_Names\obj\Debug\netcoreapp2.1\P07_Predicate_For_Names.pdb

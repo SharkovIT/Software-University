@@ -1,0 +1,10 @@
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P04_Find_Even_Or_Odds\bin\Debug\netcoreapp2.1\P04_Find_Even_Or_Odds.deps.json
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P04_Find_Even_Or_Odds\bin\Debug\netcoreapp2.1\P04_Find_Even_Or_Odds.runtimeconfig.json
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P04_Find_Even_Or_Odds\bin\Debug\netcoreapp2.1\P04_Find_Even_Or_Odds.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P04_Find_Even_Or_Odds\bin\Debug\netcoreapp2.1\P04_Find_Even_Or_Odds.dll
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P04_Find_Even_Or_Odds\bin\Debug\netcoreapp2.1\P04_Find_Even_Or_Odds.pdb
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P04_Find_Even_Or_Odds\obj\Debug\netcoreapp2.1\P04_Find_Even_Or_Odds.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P04_Find_Even_Or_Odds\obj\Debug\netcoreapp2.1\P04_Find_Even_Or_Odds.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P04_Find_Even_Or_Odds\obj\Debug\netcoreapp2.1\P04_Find_Even_Or_Odds.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P04_Find_Even_Or_Odds\obj\Debug\netcoreapp2.1\P04_Find_Even_Or_Odds.dll
+C:\Users\Stefan\source\repos\Exercises_Functional_Programming\P04_Find_Even_Or_Odds\obj\Debug\netcoreapp2.1\P04_Find_Even_Or_Odds.pdb
