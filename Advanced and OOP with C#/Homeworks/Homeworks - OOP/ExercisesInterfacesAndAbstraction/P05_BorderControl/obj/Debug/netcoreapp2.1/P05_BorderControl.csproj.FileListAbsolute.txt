@@ -1,0 +1,11 @@
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P05_BorderControl\bin\Debug\netcoreapp2.1\P05_BorderControl.deps.json
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P05_BorderControl\bin\Debug\netcoreapp2.1\P05_BorderControl.runtimeconfig.json
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P05_BorderControl\bin\Debug\netcoreapp2.1\P05_BorderControl.runtimeconfig.dev.json
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P05_BorderControl\bin\Debug\netcoreapp2.1\P05_BorderControl.dll
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P05_BorderControl\bin\Debug\netcoreapp2.1\P05_BorderControl.pdb
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P05_BorderControl\obj\Debug\netcoreapp2.1\P05_BorderControl.csprojAssemblyReference.cache
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P05_BorderControl\obj\Debug\netcoreapp2.1\P05_BorderControl.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P05_BorderControl\obj\Debug\netcoreapp2.1\P05_BorderControl.AssemblyInfoInputs.cache
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P05_BorderControl\obj\Debug\netcoreapp2.1\P05_BorderControl.AssemblyInfo.cs
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P05_BorderControl\obj\Debug\netcoreapp2.1\P05_BorderControl.dll
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P05_BorderControl\obj\Debug\netcoreapp2.1\P05_BorderControl.pdb

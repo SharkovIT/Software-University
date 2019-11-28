@@ -1,0 +1,3 @@
+C:\SoftUniLab\Exercises_Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Exercises_Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.AssemblyInfoInputs.cache
+C:\SoftUniLab\Exercises_Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.AssemblyInfo.cs

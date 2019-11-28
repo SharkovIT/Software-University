@@ -1,0 +1,11 @@
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P01_IPerson\bin\Debug\netcoreapp2.1\PersonInfo.deps.json
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P01_IPerson\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.json
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P01_IPerson\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.dev.json
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P01_IPerson\bin\Debug\netcoreapp2.1\PersonInfo.dll
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P01_IPerson\bin\Debug\netcoreapp2.1\PersonInfo.pdb
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P01_IPerson\obj\Debug\netcoreapp2.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P01_IPerson\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfoInputs.cache
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P01_IPerson\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfo.cs
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P01_IPerson\obj\Debug\netcoreapp2.1\PersonInfo.dll
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P01_IPerson\obj\Debug\netcoreapp2.1\PersonInfo.pdb
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P01_IPerson\obj\Debug\netcoreapp2.1\PersonInfo.csprojAssemblyReference.cache

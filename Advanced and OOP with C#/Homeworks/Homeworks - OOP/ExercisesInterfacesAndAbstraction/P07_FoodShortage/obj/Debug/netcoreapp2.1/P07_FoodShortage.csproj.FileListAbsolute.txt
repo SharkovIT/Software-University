@@ -1,0 +1,11 @@
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P07_FoodShortage\bin\Debug\netcoreapp2.1\P07_FoodShortage.deps.json
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P07_FoodShortage\bin\Debug\netcoreapp2.1\P07_FoodShortage.runtimeconfig.json
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P07_FoodShortage\bin\Debug\netcoreapp2.1\P07_FoodShortage.runtimeconfig.dev.json
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P07_FoodShortage\bin\Debug\netcoreapp2.1\P07_FoodShortage.dll
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P07_FoodShortage\bin\Debug\netcoreapp2.1\P07_FoodShortage.pdb
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P07_FoodShortage\obj\Debug\netcoreapp2.1\P07_FoodShortage.csprojAssemblyReference.cache
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P07_FoodShortage\obj\Debug\netcoreapp2.1\P07_FoodShortage.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P07_FoodShortage\obj\Debug\netcoreapp2.1\P07_FoodShortage.AssemblyInfoInputs.cache
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P07_FoodShortage\obj\Debug\netcoreapp2.1\P07_FoodShortage.AssemblyInfo.cs
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P07_FoodShortage\obj\Debug\netcoreapp2.1\P07_FoodShortage.dll
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P07_FoodShortage\obj\Debug\netcoreapp2.1\P07_FoodShortage.pdb

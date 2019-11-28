@@ -1,0 +1,11 @@
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P04_Telephony\bin\Debug\netcoreapp2.1\P04_Telephony.deps.json
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P04_Telephony\bin\Debug\netcoreapp2.1\P04_Telephony.runtimeconfig.json
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P04_Telephony\bin\Debug\netcoreapp2.1\P04_Telephony.runtimeconfig.dev.json
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P04_Telephony\bin\Debug\netcoreapp2.1\P04_Telephony.dll
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P04_Telephony\bin\Debug\netcoreapp2.1\P04_Telephony.pdb
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P04_Telephony\obj\Debug\netcoreapp2.1\P04_Telephony.csprojAssemblyReference.cache
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P04_Telephony\obj\Debug\netcoreapp2.1\P04_Telephony.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P04_Telephony\obj\Debug\netcoreapp2.1\P04_Telephony.AssemblyInfoInputs.cache
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P04_Telephony\obj\Debug\netcoreapp2.1\P04_Telephony.AssemblyInfo.cs
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P04_Telephony\obj\Debug\netcoreapp2.1\P04_Telephony.dll
+C:\SoftUniLab\ExercisesInterfacesAndAbstraction\P04_Telephony\obj\Debug\netcoreapp2.1\P04_Telephony.pdb
