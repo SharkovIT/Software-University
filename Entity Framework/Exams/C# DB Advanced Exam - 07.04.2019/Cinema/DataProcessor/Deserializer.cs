@@ -3,8 +3,11 @@
     using System;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
+    using System.Globalization;
+    using System.IO;
     using System.Linq;
     using System.Text;
+    using System.Xml.Serialization;
     using AutoMapper;
     using Cinema.Data.Models;
     using Cinema.Data.Models.Enums;
@@ -58,12 +61,96 @@
 
         public static string ImportHallSeats(CinemaContext context, string jsonString)
         {
-            throw new NotImplementedException();
+            var hallSeatDtos = JsonConvert.DeserializeObject<ImportHallSeatDto[]>(jsonString);
+
+            var halls = new List<Hall>();
+
+            var sb = new StringBuilder();
+
+            foreach (var hallSeatDto in hallSeatDtos)
+            {
+                if (!IsValid(hallSeatDto))
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                var hall = new Hall
+                {
+                    Name = hallSeatDto.Name,
+                    Is3D = hallSeatDto.Is3D,
+                    Is4Dx = hallSeatDto.Is4Dx,
+                };
+
+                for (int i = 0; i < hallSeatDto.Seats; i++)
+                {
+                    hall.Seats.Add(new Seat());
+                }
+
+                halls.Add(hall);
+
+                string status = string.Empty;
+
+                if (hall.Is4Dx)
+                {
+                    status = hall.Is3D ? "4Dx/3D" : "4Dx";
+                }
+                else if (hall.Is3D)
+                {
+                    status = "3D";
+                }
+                else
+                {
+                    status = "Normal";
+                }
+
+                sb.AppendLine(string.Format(SuccessfulImportHallSeat, hall.Name, status, hall.Seats.Count));
+            }
+
+            context.Halls.AddRange(halls);
+            context.SaveChanges();
+
+            return sb.ToString();
         }
 
         public static string ImportProjections(CinemaContext context, string xmlString)
         {
-            throw new NotImplementedException();
+            var xmlSerializer = new XmlSerializer(typeof(ImportProjectionDto[]),
+                                    new XmlRootAttribute("Projections"));
+
+            var projectionsDto = (ImportProjectionDto[])xmlSerializer.Deserialize(new StringReader(xmlString));
+
+            var sb = new StringBuilder();
+
+            var projections = new List<Projection>();
+
+            foreach (var projectionDto in projectionsDto)
+            {
+                var movie = context.Movies.Find(projectionDto.MovieId);
+                var hall = context.Halls.Find(projectionDto.HallId);
+
+                if (movie == null || hall == null)
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                var projection = new Projection
+                {
+                    MovieId = projectionDto.MovieId,
+                    HallId = projectionDto.HallId,
+                    DateTime = DateTime.ParseExact(projectionDto.DateTime, "yyyy-MM-dd HH:mm:ss", CultureInfo.InvariantCulture)
+                };
+
+                projections.Add(projection);
+
+                sb.AppendLine(string.Format(SuccessfulImportProjection, movie.Title, projection.DateTime.ToString("MM/dd/yyyy", CultureInfo.InvariantCulture)));
+            }
+
+            context.Projections.AddRange(projections);
+            context.SaveChanges();
+
+            return sb.ToString().TrimEnd();
         }
 
         public static string ImportCustomerTickets(CinemaContext context, string xmlString)

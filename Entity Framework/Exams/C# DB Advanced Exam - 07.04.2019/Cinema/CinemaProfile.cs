@@ -10,6 +10,10 @@ namespace Cinema
         public CinemaProfile()
         {
             this.CreateMap<ImportMovieDto, Movie>();
+
+            this.CreateMap<ImportHallSeatDto, Hall>();
+
+            this.CreateMap<ImportProjectionDto, Projection>();
         }
     }
 }
