@@ -24,9 +24,8 @@
                 .ForMember(x => x.CreatedOn, y => y.MapFrom(x => DateTime.ParseExact(x.CreatedOn, @"dd/MM/yyyy", CultureInfo.InvariantCulture)));
 
             this.CreateMap<ImportPerformerDto, Performer>();
-
             this.CreateMap<ImportPerformerSongDto, SongPerformer>()
-                .ForMember(x => x.SongId, y => y.MapFrom(x => x.Id));
+                .ForMember(t => t.SongId, y => y.MapFrom(k => k.Id));
         }
     }
 }

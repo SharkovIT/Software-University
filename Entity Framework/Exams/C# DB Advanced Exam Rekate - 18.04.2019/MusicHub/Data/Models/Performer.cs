@@ -16,10 +16,10 @@ namespace MusicHub.Data.Models
         [Required, MinLength(3), MaxLength(20)]
         public string LastName { get; set; }
 
-        [Required, Range(typeof(int), "18", "70")]
+        [Range(18, 70)]
         public int Age { get; set; }
 
-        [Required, Range(typeof(decimal), "0", "79228162514264337593543950335")]
+        [Range(typeof(decimal), "0", "79228162514264337593543950335")]
         public decimal NetWorth { get; set; }
 
         public ICollection<SongPerformer> PerformerSongs { get; set; }

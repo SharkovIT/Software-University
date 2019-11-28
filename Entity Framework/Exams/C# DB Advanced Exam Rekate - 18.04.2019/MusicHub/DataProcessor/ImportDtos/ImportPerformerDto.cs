@@ -7,7 +7,7 @@ using System.Xml.Serialization;
 namespace MusicHub.DataProcessor.ImportDtos
 {
     [XmlType("Performer")]
-    class ImportPerformerDto
+    public class ImportPerformerDto
     {
         [Required]
         [MinLength(3), MaxLength(20)]

@@ -141,13 +141,12 @@
             var xmlSerializer = new XmlSerializer(
                typeof(ImportPerformerDto[]), new XmlRootAttribute("Performers"));
 
-            var performersDto = (ImportPerformerDto[])xmlSerializer.Deserialize(new StringReader(xmlString));
-
-            var sb = new StringBuilder();
+            var performerDtos = (ImportPerformerDto[])xmlSerializer.Deserialize(new StringReader(xmlString));
 
             var validPerformers = new List<Performer>();
+            var sb = new StringBuilder();
 
-            foreach (var performerDto in performersDto)
+            foreach (var performerDto in performerDtos)
             {
                 if (!IsValid(performerDto))
                 {
@@ -163,7 +162,7 @@
                     continue;
                 }
 
-                var performer = Mapper.Map<Performer>(performerDto);
+                var performer = AutoMapper.Mapper.Map<Performer>(performerDto);
 
                 validPerformers.Add(performer);
                 sb.AppendLine(string.Format(SuccessfullyImportedPerformer, performer.FirstName,
@@ -177,6 +176,8 @@
 
             return result;
         }
+
+        
 
         private static bool IsValid(object entity)
         {
