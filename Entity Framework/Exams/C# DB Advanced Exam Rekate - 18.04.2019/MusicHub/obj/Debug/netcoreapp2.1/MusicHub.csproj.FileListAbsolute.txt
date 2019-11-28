@@ -1,0 +1,11 @@
+D:\github\Software-University\Entity Framework\Exams\C# DB Advanced Exam Rekate - 18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.deps.json
+D:\github\Software-University\Entity Framework\Exams\C# DB Advanced Exam Rekate - 18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.json
+D:\github\Software-University\Entity Framework\Exams\C# DB Advanced Exam Rekate - 18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.dev.json
+D:\github\Software-University\Entity Framework\Exams\C# DB Advanced Exam Rekate - 18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.dll
+D:\github\Software-University\Entity Framework\Exams\C# DB Advanced Exam Rekate - 18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.csprojAssemblyReference.cache
+D:\github\Software-University\Entity Framework\Exams\C# DB Advanced Exam Rekate - 18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.csproj.CoreCompileInputs.cache
+D:\github\Software-University\Entity Framework\Exams\C# DB Advanced Exam Rekate - 18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfoInputs.cache
+D:\github\Software-University\Entity Framework\Exams\C# DB Advanced Exam Rekate - 18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfo.cs
+D:\github\Software-University\Entity Framework\Exams\C# DB Advanced Exam Rekate - 18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.pdb
+D:\github\Software-University\Entity Framework\Exams\C# DB Advanced Exam Rekate - 18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.dll
+D:\github\Software-University\Entity Framework\Exams\C# DB Advanced Exam Rekate - 18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.pdb
