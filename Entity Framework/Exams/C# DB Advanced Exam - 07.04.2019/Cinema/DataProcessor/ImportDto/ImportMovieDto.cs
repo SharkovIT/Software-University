@@ -1,20 +1,17 @@
-﻿using Cinema.Data.Models.Enums;
-using System;
-using System.Collections;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Text;
 
-namespace Cinema.Data.Models
+namespace Cinema.DataProcessor.ImportDto
 {
-    public class Movie
+    public class ImportMovieDto
     {
-        public int Id { get; set; }
-
         [Required, MinLength(3), MaxLength(20)]
         public string Title { get; set; }
 
         [Required]
-        public Genre Genre { get; set; }
+        public string Genre { get; set; }
 
         [Required]
         public TimeSpan Duration { get; set; }
@@ -24,8 +21,5 @@ namespace Cinema.Data.Models
 
         [Required, MinLength(3), MaxLength(20)]
         public string Director { get; set; }
-
-        public ICollection<Projection> Projections { get; set; }
-                            = new HashSet<Projection>();
     }
 }
