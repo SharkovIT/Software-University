@@ -14,17 +14,18 @@
     using Cinema.DataProcessor.ImportDto;
     using Data;
     using Newtonsoft.Json;
+    using ValidationContext = System.ComponentModel.DataAnnotations.ValidationContext;
 
     public class Deserializer
     {
         private const string ErrorMessage = "Invalid data!";
-        private const string SuccessfulImportMovie 
+        private const string SuccessfulImportMovie
             = "Successfully imported {0} with genre {1} and rating {2}!";
-        private const string SuccessfulImportHallSeat 
+        private const string SuccessfulImportHallSeat
             = "Successfully imported {0}({1}) with {2} seats!";
-        private const string SuccessfulImportProjection 
+        private const string SuccessfulImportProjection
             = "Successfully imported projection {0} on {1}!";
-        private const string SuccessfulImportCustomerTicket 
+        private const string SuccessfulImportCustomerTicket
             = "Successfully imported customer {0} {1} with bought tickets: {2}!";
 
         public static string ImportMovies(CinemaContext context, string jsonString)
@@ -40,7 +41,7 @@
                 var movieExists = context.Movies.Any(m => m.Title == movieDto.Title);
                 var isValidDto = IsValid(movieDto);
                 var parseEnum = Enum.TryParse(movieDto.Genre, out Genre genreResult);
-                
+
                 if (movieExists || !isValidDto || !parseEnum)
                 {
                     sb.AppendLine(ErrorMessage);
@@ -155,17 +156,60 @@
 
         public static string ImportCustomerTickets(CinemaContext context, string xmlString)
         {
-            throw new NotImplementedException();
+            var xmlSerializer = new XmlSerializer(typeof(ImportCustomerDto[]),
+                                new XmlRootAttribute("Customers"));
+
+            var customersDto = (ImportCustomerDto[])xmlSerializer.Deserialize(new StringReader(xmlString));
+
+            var sb = new StringBuilder();
+
+            var customers = new List<Customer>();
+
+            foreach (var customerDto in customersDto)
+            {
+                var projections = context.Projections.Select(x => x.Id).ToArray();
+                var projectionExists = projections.Any(x => customerDto.Tickets.Any(s => s.ProjectionId != x));
+
+                if (!IsValid(customerDto) && customerDto.Tickets.All(IsValid) && projectionExists)
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                var customer = new Customer
+                {
+                    FirstName = customerDto.FirstName,
+                    LastName = customerDto.LastName,
+                    Age = customerDto.Age,
+                    Balance = customerDto.Balance
+                };
+
+                foreach (var ticket in customerDto.Tickets)
+                {
+                    customer.Tickets.Add(new Ticket
+                    {
+                        ProjectionId = ticket.ProjectionId,
+                        Price = ticket.Price
+                    });
+                }
+
+                customers.Add(customer);
+
+                sb.AppendLine(string.Format(SuccessfulImportCustomerTicket, customer.FirstName, customer.LastName, customer.Tickets.Count));
+            }
+
+            context.Customers.AddRange(customers);
+            context.SaveChanges();
+
+            return sb.ToString();
         }
 
         private static bool IsValid(object entity)
         {
-            var validationContext = new System.ComponentModel.DataAnnotations.ValidationContext(entity);
+            var validationContext = new ValidationContext(entity);
             var validationResult = new List<ValidationResult>();
 
-            var result = Validator.TryValidateObject(entity, validationContext, validationResult, true);
-
-            return result;
+            return Validator.TryValidateObject(entity, validationContext, validationResult, true);
         }
     }
 }

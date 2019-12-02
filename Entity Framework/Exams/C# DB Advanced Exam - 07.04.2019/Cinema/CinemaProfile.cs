@@ -14,6 +14,7 @@ namespace Cinema
             this.CreateMap<ImportHallSeatDto, Hall>();
 
             this.CreateMap<ImportProjectionDto, Projection>();
+
         }
     }
 }
