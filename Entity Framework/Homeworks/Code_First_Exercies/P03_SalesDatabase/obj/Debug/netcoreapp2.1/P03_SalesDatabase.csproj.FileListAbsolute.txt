@@ -1,0 +1,10 @@
+C:\SoftUniLab\Code-First.Exercises\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.deps.json
+C:\SoftUniLab\Code-First.Exercises\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.json
+C:\SoftUniLab\Code-First.Exercises\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.dev.json
+C:\SoftUniLab\Code-First.Exercises\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+C:\SoftUniLab\Code-First.Exercises\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+C:\SoftUniLab\Code-First.Exercises\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfoInputs.cache
+C:\SoftUniLab\Code-First.Exercises\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfo.cs
+C:\SoftUniLab\Code-First.Exercises\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+C:\SoftUniLab\Code-First.Exercises\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+C:\SoftUniLab\Code-First.Exercises\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
