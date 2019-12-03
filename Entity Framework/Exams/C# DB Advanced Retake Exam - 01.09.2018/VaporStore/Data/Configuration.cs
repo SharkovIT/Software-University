@@ -3,6 +3,6 @@
 	public static class Configuration
 	{
 		public static string ConnectionString =
-			@"Server=.;Database=VaporStore;Trusted_Connection=True";
+            @"Server=DESKTOP-G9R4701\SQLEXPRESS;Database=VaporStore;Trusted_Connection=True";
 	}
 }
