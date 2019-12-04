@@ -7,6 +7,16 @@ namespace VaporStore.Data.Models
 {
     public class Tag
     {
+        public Tag()
+        {
+
+        }
+
+        public Tag(string name)
+        {
+            this.Name = name;
+        }
+
         [Key]
         public int Id { get; set; }
 

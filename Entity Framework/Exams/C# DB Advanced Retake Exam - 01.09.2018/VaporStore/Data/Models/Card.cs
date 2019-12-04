@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 using VaporStore.Data.Enums;
 
@@ -8,10 +9,21 @@ namespace VaporStore.Data.Models
 {
     public class Card
     {
+        public Card()
+        {
+        }
+
+        public Card(string number, string cvc, CardType type)
+        {
+            this.Number = number;
+            this.Cvc = cvc;
+            this.Type = type;
+        }
+
         [Key]
         public int Id { get; set; }
 
-        [Required, RegularExpression(@"[0-9]{4} [0-9]{4} [0-9]{4} [0-9]{4}")]
+        [Required, RegularExpression(@"/d{4} /d{4} /d{4} /d{4}")]
         public string Number { get; set; }
 
         [Required, RegularExpression(@"/d{3}")]
@@ -21,6 +33,7 @@ namespace VaporStore.Data.Models
         public CardType Type { get; set; }
 
         [Required]
+        [ForeignKey(nameof(User))]
         public int UserId { get; set; }
 
         public User User { get; set; }

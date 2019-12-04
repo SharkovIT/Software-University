@@ -7,6 +7,15 @@ namespace VaporStore.Data.Models
 {
     public class Developer
     {
+        public Developer()
+        {
+
+        }
+        public Developer(string name)
+        {
+            this.Name = name;
+        }
+
         [Key]
         public int Id { get; set; }
 
