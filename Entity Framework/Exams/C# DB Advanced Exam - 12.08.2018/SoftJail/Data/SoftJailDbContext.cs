@@ -1,8 +1,9 @@
 ﻿namespace SoftJail.Data
 {
 	using Microsoft.EntityFrameworkCore;
+    using SoftJail.Data.Models;
 
-	public class SoftJailDbContext : DbContext
+    public class SoftJailDbContext : DbContext
 	{
 		public SoftJailDbContext()
 		{
@@ -13,7 +14,18 @@
 		{
 		}
 
-		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public DbSet<Cell> Cells { get; set; }
+        public DbSet<Department> Departments { get; set; }
+
+        public DbSet<Mail> Mails { get; set; }
+
+        public DbSet<Officer> Officers { get; set; }
+
+        public DbSet<OfficerPrisoner> OfficerPrisoners { get; set; }
+
+        public DbSet<Prisoner> Prisoners { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 		{
 			if (!optionsBuilder.IsConfigured)
 			{
@@ -24,6 +36,8 @@
 
 		protected override void OnModelCreating(ModelBuilder builder)
 		{
+            builder.Entity<OfficerPrisoner>()
+                .HasKey(k => new { k.PrisonerId, k.OfficerId });
 		}
 	}
 }
