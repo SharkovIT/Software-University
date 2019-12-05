@@ -12,10 +12,13 @@ namespace SoftJail.Data.Models
         [Key]
         public int Id { get; set; }
 
-        [Required, MinLength(3), MaxLength(30)]
+        [Required]
+        [MinLength(3)]
+        [MaxLength(30)]
         public string FullName { get; set; }
 
-        [Required, Range(0.0, double.MaxValue)]
+        [Required]
+        [Range(0, double.MaxValue)]
         public decimal Salary { get; set; }
 
         [Required]
@@ -24,12 +27,13 @@ namespace SoftJail.Data.Models
         [Required]
         public Weapon Weapon { get; set; }
 
-        public int? DepartmentId { get; set; }
-        
         [Required]
+        [ForeignKey(nameof(Department))]
+        public int DepartmentId { get; set; }
+
         public Department Department { get; set; }
 
         public ICollection<OfficerPrisoner> OfficerPrisoners { get; set; }
-                        = new HashSet<OfficerPrisoner>();
+            = new HashSet<OfficerPrisoner>();
     }
 }

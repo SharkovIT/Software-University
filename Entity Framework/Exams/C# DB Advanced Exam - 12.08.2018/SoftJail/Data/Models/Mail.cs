@@ -17,12 +17,14 @@ namespace SoftJail.Data.Models
         [Required]
         public string Sender { get; set; }
 
-        [Required, RegularExpression(@"^[\w ]+str.$")]
+        [Required]
+        [RegularExpression("^[A-Za-z 0-9]+ str.$")]
         public string Address { get; set; }
 
-        public int? PrisonerId { get; set; }
-
         [Required]
+        [ForeignKey(nameof(Prisoner))]
+        public int PrisonerId { get; set; }
+
         public Prisoner Prisoner { get; set; }
 
 
