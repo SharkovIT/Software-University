@@ -21,9 +21,6 @@
                 .ForMember(x => x.ReleaseDate, y => y.MapFrom(x => DateTime.ParseExact(x.ReleaseDate, @"dd/MM/yyyy", CultureInfo.InvariantCulture)))
                 .ForMember(x => x.IncarcerationDate, y => y.MapFrom(x => DateTime.ParseExact(x.IncarcerationDate, @"dd/MM/yyyy", CultureInfo.InvariantCulture)));
 
-            this.CreateMap<PrisonerImportDto, Prisoner>();
-
-            this.CreateMap<OfficerDto, Officer>();
         }
     }
 }

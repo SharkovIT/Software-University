@@ -90,7 +90,21 @@
             {
                 var position = Enum.TryParse(dto.Position, out Position positionRes);
                 var weapon = Enum.TryParse(dto.Weapon, out Weapon weaponRes);
-                var dep = context.Departments.Any(d => d.Id == dto.DepartmentId);
+
+                var officer = new Officer
+                {
+                    FullName = dto.FullName,
+                    Salary = dto.Salary,
+                    Position = positionRes,
+                    Weapon = weaponRes,
+                    DepartmentId = dto.DepartmentId,
+                    OfficerPrisoners = dto.Prisoners
+                        .Select(p => new OfficerPrisoner
+                        {
+                            PrisonerId = p.Id
+                        })
+                        .ToArray()
+                };
 
                 if (!IsValid(dto) || !position || !weapon)
                 {
@@ -98,7 +112,6 @@
                     continue;
                 }
 
-                var officer = Mapper.Map<Officer>(dto);
                 context.Add(officer);
                 sb.AppendLine($"Imported {dto.FullName} ({dto.Prisoners.Length} prisoners)");
             }
