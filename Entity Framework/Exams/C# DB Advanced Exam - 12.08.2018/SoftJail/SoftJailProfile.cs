@@ -18,7 +18,6 @@
             this.CreateMap<MailDto, Mail>();
 
             this.CreateMap<PrisonerDto, Prisoner>()
-                .ForMember(x => x.Bail, y => y.MapFrom(x => x.Bail))
                 .ForMember(x => x.ReleaseDate, y => y.MapFrom(x => DateTime.ParseExact(x.ReleaseDate, @"dd/MM/yyyy", CultureInfo.InvariantCulture)))
                 .ForMember(x => x.IncarcerationDate, y => y.MapFrom(x => DateTime.ParseExact(x.IncarcerationDate, @"dd/MM/yyyy", CultureInfo.InvariantCulture)));
 
