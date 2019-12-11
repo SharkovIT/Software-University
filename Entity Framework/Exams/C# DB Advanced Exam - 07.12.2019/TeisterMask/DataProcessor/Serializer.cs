@@ -49,13 +49,13 @@
         {
             var projects = context.Projects
               .Where(p => p.Tasks.Any())
-              .OrderByDescending(p => p.Tasks.Count)
-              .ThenBy(p => p.Name)
+               .OrderByDescending(p => p.Tasks.Count)
+                .ThenBy(p => p.Name)
               .Select(p => new ExportProjectDto
               {
                   TasksCount = p.Tasks.Count,
                   ProjectName = p.Name,
-                  HasEndDate = p.OpenDate == null ? "No" : "Yes",
+                  HasEndDate = p.DueDate == null ? "No" : "Yes",
                   Tasks = p.Tasks
                       .Select(t => new ExportTaskDto
                       {
