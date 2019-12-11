@@ -5,7 +5,7 @@ using System.Xml.Serialization;
 
 namespace TeisterMask.DataProcessor.ExportDto
 {
-    [XmlType("Project ")]
+    [XmlType("Project")]
     public class ExportProjectDto
     {
         [XmlAttribute("TasksCount")]
