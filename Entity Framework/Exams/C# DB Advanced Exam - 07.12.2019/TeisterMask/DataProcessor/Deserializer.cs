@@ -36,10 +36,81 @@
 
             var sb = new StringBuilder();
 
-            var validProjects = new List<Project>();
             var tasks = new List<Task>();
 
-            
+            foreach (var dto in projectsDto)
+            {
+
+                if (!IsValid(dto))
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+
+                var project = new Project
+                {
+                    Name = dto.Name,
+                    OpenDate = DateTime.ParseExact(dto.OpenDate, "dd/MM/yyyy", CultureInfo.InvariantCulture),
+                };
+
+                if (dto.DueDate == null || dto.DueDate == "")
+                {
+                    dto.DueDate = null;
+                }
+                else
+                {
+                    DateTime.ParseExact(dto.DueDate, "dd/MM/yyyy", CultureInfo.InvariantCulture);
+
+                }
+
+                foreach (var taskDto in dto.Tasks)
+                {
+                    if (!IsValid(taskDto))
+                    {
+                        sb.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    var task = new Task
+                    {
+                        Name = taskDto.Name,
+                        OpenDate = DateTime.ParseExact(taskDto.OpenDate, "dd/MM/yyyy", CultureInfo.InvariantCulture),
+                        DueDate = DateTime.ParseExact(taskDto.DueDate, "dd/MM/yyyy", CultureInfo.InvariantCulture),
+                        ExecutionType = Enum.Parse<ExecutionType>(taskDto.ExecutionType),
+                        LabelType = Enum.Parse<LabelType>(taskDto.LabelType)
+                    };
+
+                    if (project.DueDate != null)
+                    {
+                        if (task.OpenDate < project.OpenDate || task.DueDate > project.DueDate)
+                        {
+                            sb.AppendLine(ErrorMessage);
+                            continue;
+                        }
+                    }
+                    else
+                    {
+                        if (task.OpenDate < project.OpenDate)
+                        {
+                            sb.AppendLine(ErrorMessage);
+                            continue;
+                        }
+                    }
+
+                    tasks.Add(task);
+                }
+
+                project.Tasks = tasks;
+
+                context.Projects.Add(project);
+
+                sb.AppendLine(string.Format(SuccessfullyImportedProject, project.Name, project.Tasks.Count));
+            }
+
+            context.SaveChanges();
+
+            return sb.ToString().TrimEnd();
         }
 
         public static string ImportEmployees(TeisterMaskContext context, string jsonString)
@@ -48,9 +119,52 @@
 
             var sb = new StringBuilder();
 
-            var tasks = new List<EmployeeTask>();
+            foreach (var dto in employeesDto)
+            {
+                if (!IsValid(dto))
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
 
-            
+                var employee = new Employee
+                {
+                    Username = dto.Username,
+                    Email = dto.Email,
+                    Phone = dto.Phone
+                };
+
+                var employeeTasks = new List<EmployeeTask>();
+
+                foreach (var taskId in dto.Tasks.Distinct())
+                {
+                    var task = context.Tasks.FirstOrDefault(t => t.Id == taskId);
+
+                    if (task == null)
+                    {
+                        sb.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    employeeTasks.Add(new EmployeeTask
+                    {
+                        Employee = employee,
+                        TaskId = task.Id
+                    });
+                }
+
+                employee.EmployeesTasks = employeeTasks;
+
+                context.Employees.Add(employee);
+
+                sb.AppendLine(string.Format(SuccessfullyImportedEmployee,
+                    employee.Username,
+                    employee.EmployeesTasks.Count));
+            }
+
+            context.SaveChanges();
+
+            return sb.ToString().TrimEnd();
         }
 
         private static bool IsValid(object dto)
